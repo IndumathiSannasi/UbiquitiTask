@@ -23,7 +23,7 @@ Browser Selected: Chrome
 
 ## To install and run Cypress in Visual Studio
 
-1.  Install the Node.js and Check if setup is completed by typing ‘node -v’ in command prompt.
+1.Install the Node.js and Check if setup is completed by typing ‘node -v’ in command prompt.
 
 2.Open the Visual studio terminal and reate an empty folder using mkdir command and navigate to the folder.
 
@@ -31,14 +31,14 @@ Browser Selected: Chrome
 
 4.In the terminal type `npm install cypress`or `npm install cypress –save-dev`
 
-6.  To run Cypress tests using cypress test runner
+5.To run Cypress tests using cypress test runner
 
 ```bash
 npx cypress open
 
 ```
 
-7. You can also run these scripts by just cloning the repo and run
+6.You can also run these scripts by just cloning the repo and run
 
 ```bash
 $ npm install
