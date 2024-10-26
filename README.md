@@ -27,7 +27,7 @@ Browser Selected: Chrome
 
 2.Open the Visual studio terminal and reate an empty folder using mkdir command and navigate to the folder.
 
-3.To create default package.json type the command npm init
+3.To create default package.json type the command `npm init`
 
 4.In the terminal type `npm install cypress`or `npm install cypress –save-dev`
 
